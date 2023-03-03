@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: HomePage
+  description: This is the home page component of the loans
+spec: 
+  type: website
+  lifecycle: experimental
+  owner: Loans
+  providesApis:
+    - loans-api-get
