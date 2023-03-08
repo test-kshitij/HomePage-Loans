@@ -7,5 +7,6 @@ spec:
   type: website
   lifecycle: experimental
   owner: Loans
+  system: loan-system
   consumesApis:
     - loans-api-get
