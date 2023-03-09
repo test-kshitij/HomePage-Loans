@@ -5,9 +5,8 @@ metadata:
   description: This is the home page component of the loans
   tags: 
     - react
-    - Ant
-    - Typescript
-    - Nodejs
+    - typescript
+    - nodejs
   link: 
     - url : https://loan.credavenue.com/
       title: Loans Page
