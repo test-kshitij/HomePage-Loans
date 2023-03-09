@@ -9,4 +9,4 @@ spec:
   owner: Loans
   system: loan-system
   consumesApis:
-    - loans-api-get
+    - loan-qa-api.go-yubi
