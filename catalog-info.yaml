@@ -3,6 +3,14 @@ kind: Component
 metadata:
   name: Homepage_Loan
   description: This is the home page component of the loans
+  tags: 
+    - react
+    - Ant
+    - Typescript
+    - Nodejs
+  link: 
+    - url : https://loan.credavenue.com/
+      title: Loans Page
 spec: 
   type: website
   lifecycle: experimental
