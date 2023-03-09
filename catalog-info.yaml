@@ -10,3 +10,4 @@ spec:
   system: loan-system
   consumesApis:
     - loan-qa-api.go-yubi
+    - user_authentication
